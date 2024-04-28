@@ -1,0 +1,57 @@
+body {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            height: 100vh;
+            line-height: 1;
+            background-image: url("https://i.pinimg.com/736x/e6/45/09/e64509dcf48846651004c355ad30180c.jpg");
+            background-size: cover;
+            color: #333;
+            padding: 20px;
+            margin: 0;
+}
+h1 {
+    text-align: center;
+    margin: 10px;
+    color: #fff;
+}
+.section {
+    margin-bottom: 10px;
+
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.Education-Page{
+    margin-bottom: 10px;
+    background-color: rgba(255, 255, 255, 0.729);
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.Work-Experience-Page{
+    margin-bottom: 10px;
+    background-color: rgba(255, 255, 255, 0.729);
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.Organization-Experience-Page{
+    margin-bottom: 10px;
+    background-color: rgba(255, 255, 255, 0.729);
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.Training-Page{
+    margin-bottom: 10px;
+    background-color: rgba(255, 255, 255, 0.729);
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.Skill-Page{
+    margin-bottom: 10px;
+    background-color: rgba(255, 255, 255, 0.729);
+    padding: 20px;
+    border-radius: 5px;
+}
